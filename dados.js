@@ -2,7 +2,7 @@ const conteudos = [
   {
     titulo: "TODO AMANHECER É UMA NOVA CHANCE",
     mensagem: "Não importa o que aconteceu ontem. A vida sempre oferece um novo amanhecer para quem decide continuar. Confie no seu caminho. O melhor ainda está por vir. ❤️",
-    imagem: "imagens/dia1.jpg",
+    imagem: "creatinina/dia1.jpg",
     musica: "https://www.youtube.com/results?search_query=Trem+Bala+Ana+Vilela"
   },
 
