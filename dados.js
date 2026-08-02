@@ -3,14 +3,14 @@ const conteudos = [
     titulo: "TODO AMANHECER É UMA NOVA CHANCE",
     mensagem: "Não importa o que aconteceu ontem. A vida sempre oferece um novo amanhecer para quem decide continuar. Confie no seu caminho. O melhor ainda está por vir. ❤️",
     imagem: "dia1.jpg",
-    musica: "dia1.mp3"
+    musica: "dia1.mp3",
   },
 
   {
     titulo: "VOCÊ É MAIS FORTE DO QUE PENSA",
     mensagem: "Cada desafio vencido fortalece sua coragem. Continue caminhando, mesmo que seja um passo de cada vez. 💙",
     imagem: "dia2.jpg",
-    musica: "dia2.mp3"
+    musica: "dia2.mp3",
   },
 
   {
